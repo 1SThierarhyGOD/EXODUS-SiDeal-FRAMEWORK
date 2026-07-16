@@ -1,0 +1,5 @@
+id,project_id,name,target_os,target_arch,custom_flags,created_at
+"8c167501-aaa3-4269-ac9b-bd159fc9f690","5440ebe4-9e68-4291-8914-d81034137d80","Windows x64 Release","windows","x64","-O3 --enable-optimizations --strip-symbols","2026-07-03T09:44:20.406302"
+"32b5cef3-4016-489b-94b0-a6b9f78a0f14","5440ebe4-9e68-4291-8914-d81034137d80","macOS ARM64 Apple Silicon","macos","arm64","-O3 --target=aarch64-apple-darwin","2026-07-03T09:44:20.406302"
+"b5f00ae7-39a4-4c91-a4a9-0ad10e30b38a","5440ebe4-9e68-4291-8914-d81034137d80","Linux x64 Static","linux","x64","-static -O2","2026-07-03T09:44:20.406302"
+"a1966e20-987c-4531-9e18-61f8a8c5f604","b1330660-345b-4bd3-b255-a032381615a7","Universal CLI Toolkit","linux","x64","--release","2026-07-03T09:44:20.406302"
