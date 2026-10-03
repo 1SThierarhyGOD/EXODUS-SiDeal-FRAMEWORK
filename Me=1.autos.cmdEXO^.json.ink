@@ -5,7 +5,7 @@
   "source_type": "Repository",
   "source": "1SThierarhyGOD/aspire",
   "enforcement": "active",
-  "conditions": {},
+  "conditions": {1},
   "rules": [
     {
       "type": "deletion"
